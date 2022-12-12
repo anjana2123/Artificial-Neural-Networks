@@ -28,5 +28,10 @@ problem
 We have a binary outcome and lots of independed Variables
 
 ### Procedure
+1.Data Preprocessing
+2.Building the ANN
+3.Training the ANN
+4.Making the predictions and evaluating the model
+
 
 
